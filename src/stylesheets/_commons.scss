@@ -1,0 +1,17 @@
+
+
+.clearfix:after{
+    content:"";
+    display: block;
+    clear: both;
+}
+
+
+.bg-img{
+    background: url("../assets/loading.gif") no-repeat center;
+    background-size:20%;
+    width:100%;
+    height:2.4rem;
+}
+
+
